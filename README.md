@@ -13,5 +13,5 @@ I've used the New York Times article [*The 229 People, Places and Things Donald 
 + `pip3 install matplotlib`
 + `pip3 install wordcloud`
 
-#####A sample outcome [code](https://github.com/ethanagbaker/TrumpInsults/blob/master/trumpFaceWC.py)
+#####A sample outcome [(source code)](https://github.com/ethanagbaker/TrumpInsults/blob/master/trumpFaceWC.py)
 ![alt text](https://raw.githubusercontent.com/ethanagbaker/TrumpInsults/master/trumpInsultWC.png "Trump Insult Word Cloud")
